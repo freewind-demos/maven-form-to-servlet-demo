@@ -2,10 +2,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>in.freewind</groupId>
-    <artifactId>maven-post-to-servlet-demo</artifactId>
+    <artifactId>maven-form-to-servlet-demo</artifactId>
     <packaging>war</packaging>
     <version>1.0-SNAPSHOT</version>
-    <name>maven-post-to-servlet-demo</name>
+    <name>maven-form-to-servlet-demo</name>
     <url>http://maven.apache.org</url>
     <dependencies>
         <dependency>

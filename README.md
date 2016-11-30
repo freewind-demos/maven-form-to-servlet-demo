@@ -1,13 +1,10 @@
 Maven Jetty Demo
 =================
 
-Maven with jetty.
+Send data from form to servlet, with correct Chinese characters.
 
 ```
 mvn jetty:run
 ```
 
-Resources
----------
-
-- maven-jetty-plugin: <https://www.eclipse.org/jetty/documentation/9.3.x/jetty-maven-plugin.html>
+Open <http://localhost:8080>, write some Chinese characters in the field, and 'Send'
